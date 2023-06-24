@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nmduonggg](https://github.com/nmduonggg)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Machine Learning, Image Processing, Python**
 
 - 📫 How to reach me **nmduong2104@gmail.com**
 
@@ -16,11 +16,12 @@
 <p align="left">
 <a href="https://fb.com/nmduonggg.hust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nmduonggg.hust" height="30" width="40" /></a>
 <a href="https://instagram.com/nmduonggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nmduonggg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/duongcv23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="duongcv23" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" alt="mysql" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmduonggg&show_icons=true&locale=en&layout=compact" alt="nmduonggg" /></p>
 
